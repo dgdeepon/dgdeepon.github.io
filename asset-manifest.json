@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.83e885ee.css",
-    "main.js": "/static/js/main.b755b2ec.js",
+    "main.js": "/static/js/main.7256eca9.js",
     "static/js/787.4a770947.chunk.js": "/static/js/787.4a770947.chunk.js",
     "static/media/dailyobject.png": "/static/media/dailyobject.afe81ec1932eb3506cc7.png",
     "static/media/Main.JPG": "/static/media/Main.da758f9f555ea20523a1.JPG",
@@ -9,8 +9,8 @@
     "static/media/HealthEasy.png": "/static/media/HealthEasy.48858ce129d3f2557ccb.png",
     "static/media/Reduxlogo.png": "/static/media/Reduxlogo.1b4bb5fceb01b19da59d.png",
     "static/media/React-icon.svg.png": "/static/media/React-icon.svg.81ed438b18e24116794d.png",
+    "static/media/Deepan_Ghosh_Resume.pdf": "/static/media/Deepan_Ghosh_Resume.a6e65b0739ee8b8467da.pdf",
     "static/media/logo-gb41d62256_1920.png": "/static/media/logo-gb41d62256_1920.5d9a47215438429db24d.png",
-    "static/media/Deepan_Ghosh_Resume.pdf": "/static/media/Deepan_Ghosh_Resume.1f238c9902ad303be3fb.pdf",
     "static/media/logo-gb9fabe57b_1920.png": "/static/media/logo-gb9fabe57b_1920.0ff377620db6060a5517.png",
     "static/media/chakra-ui_title2-400x400-removebg-preview.png": "/static/media/chakra-ui_title2-400x400-removebg-preview.fc0f93596462cd01a157.png",
     "static/media/DollerTreeAdmin.png": "/static/media/DollerTreeAdmin.fde663854249b7635790.png",
@@ -20,11 +20,11 @@
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
     "main.83e885ee.css.map": "/static/css/main.83e885ee.css.map",
-    "main.b755b2ec.js.map": "/static/js/main.b755b2ec.js.map",
+    "main.7256eca9.js.map": "/static/js/main.7256eca9.js.map",
     "787.4a770947.chunk.js.map": "/static/js/787.4a770947.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.83e885ee.css",
-    "static/js/main.b755b2ec.js"
+    "static/js/main.7256eca9.js"
   ]
 }
